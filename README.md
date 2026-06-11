@@ -58,5 +58,5 @@ A production-grade MERN booking platform built for a real paying client — hand
 
 <img width="1344" height="593" alt="burdwanturf-pic-1" src="https://github.com/user-attachments/assets/c5839b87-0cb7-4e4a-a999-afb1a3729fcd" />
 <img width="1341" height="592" alt="burdwanturf-pic-2" src="https://github.com/user-attachments/assets/0605aab6-ed72-428a-a244-4d19f04688af" />
-<img width="1341" height="592" alt="burdwanturf-pic-3" src="https://github.com/user-attachments/assets/3616a946-4764-421c-8180-ccc368579e31" />
+
 
