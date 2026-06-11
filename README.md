@@ -8,7 +8,7 @@ A production-grade MERN booking platform built for a real paying client — hand
 
 ## Code Architecture
 
-- user site → https://github.com/Saikat-github/burdwan-turf-frontend
+- user panel → https://github.com/Saikat-github/burdwan-turf-frontend
 - backend → confidential, can't make it public
 
 ---
